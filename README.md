@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Satendra124's github stats](https://github-readme-stats.vercel.app/api?username=Satendra124&show_icons=true&theme=radical)
+<!-- ![Satendra124's github stats](https://github-readme-stats.vercel.app/api?username=Satendra124&show_icons=true&theme=radical) -->
 
 
 <!--
